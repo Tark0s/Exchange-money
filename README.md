@@ -1,4 +1,4 @@
-## IFX payments: recruitment task
+## Exchange money app
 
 In the `documentation/postman` folder, you will find the Postman collection file. You can use this file to test the application.
 
